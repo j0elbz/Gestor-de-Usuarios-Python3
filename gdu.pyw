@@ -3,7 +3,7 @@ from functions.gdu import *
 
 
 if __name__ == "__main__":
-    if sis_op == "Windows":
+    if sis_op == "win32" or "win64":
         root = Tk()    
         root = Main(master=root)
         root.mainloop()
