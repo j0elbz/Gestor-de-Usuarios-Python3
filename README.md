@@ -1,5 +1,7 @@
 # Gestor de Usuarios Python3
 
+SOLO COMPATIBLE CON WINDOWS
+
 Presentamos nuestro programa de gestión membresías de usuarios o GDU. Con esta herramienta, podrás añadir, borrar, modificar y gestionar fácilmente a tus usuarios, brindándoles una experiencia fluida y simplificada.
 
 Nuestro programa ofrece una solución completa para la administración de usuarios, permitiéndote agregar nuevos miembros de forma rápida y sencilla. Ya sea que estés creando una comunidad, un club o un servicio en línea, este programa se adapta perfectamente a tus necesidades.
